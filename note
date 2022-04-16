@@ -1,0 +1,54 @@
+<div class="row pt-5">
+    <div class="col-md"> 
+      <div class="service-box p-5 bg-body">
+        <img src="./images/icons8-web-96.png" class=" m-auto d-block pb-4" width="60rem" alt="">
+        <h2 class="d-grid align-items-center justify-content-center">Web Design</h2>
+        <p class="text-center">Employ the combination of frontend technological tools such as HTML5, CSS3, Javascript, Bootstrap and React; to create beautiful web designs.</p>
+      </div>
+    </div>
+
+    <div class="col-md">
+      <div class="service-box p-5 bg-body">
+        <img src="./images/icons8-web-hosting-48.png" class=" m-auto d-block pb-4" width="60rem" alt="">
+        <h2 class="d-grid align-items-center justify-content-center text-center">Web Developer</h2>
+        <p class="text-center">Develop fast, responsive websites that improves SEO ranking. I use the right semantic tags to improve accessibility to a wide range of audience.</p> 
+      </div>
+    </div>
+
+    <div class="col-md">
+      <div class="service-box p-5 bg-body">
+        <img src="./images/icons8-iphone-50.png" class=" m-auto d-block pb-4" width="60rem" alt="">
+        <h2 class="d-grid align-items-center justify-content-center">App Design</h2>
+        <p class="text-center">Create responsive, mobile first applications to suit a wide range of mobile and desktop screens.</p>
+      </div>
+    </div>
+
+    <div class="col-md">
+      <div class="service-box p-5 bg-body">
+        <img src="./images/icons8-designthinking-64.png" class=" m-auto d-block pb-4" width="60rem" alt="">
+        <h2 class="d-grid align-items-center justify-content-center">Graphic Design</h2>
+        <p class="text-center">Create beautiful interface designs and have accessibility to a wide range of interfaces on the web.</p>
+      </div>
+    </div>
+
+    
+
+    <div class="col-md">
+      <div class="service-box p-5 bg-body">
+        <img src="./images/icons8-illustration-64.png" class=" m-auto d-block pb-4" width="60rem" alt="">
+        <h2 class="d-grid align-items-center justify-content-center">Illustration Design</h2>
+        <p class="text-center">Create working prototype of applications using Figma or AdobeXD before writing actual codes.</p>
+      </div>
+    </div>
+
+    
+
+    <div class="col-md">
+      <div class="service-box p-5 bg-body">
+        <img src="./images/icons8-consultation-50.png" class=" m-auto d-block pb-4" width="60rem" alt="">
+        <h2 class="d-grid align-items-center justify-content-center text-center">Consultancy and Support</h2>
+        <p class="text-center">Support management and Information Communications Technology(ICT) consulting firms.</p>
+      </div>
+    </div>
+  </div>
+
