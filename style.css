@@ -52,7 +52,6 @@ nav{
     background-position: center;
     height: 30rem;	
     position: relative;
-    z-index: -1;
 }
 
 .cta-overlay{
